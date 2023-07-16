@@ -1,14 +1,26 @@
 clients = [    
     {
-        "user" : "Digidie", 
-        "api_id" : 9601666,
-        "api_hash" : 'ad51987253963ca082bbfe7aa00ce0b9',
-        "phone":'+79096003792',
-        "device_model": "Chrome 114",
-        "system_version": "Windows 10",
-        "app_version": "1.9.0 K",
-        "system_lang_code": "en",
-        "lang_pack": "",
-        "lang_code": "en",
+        "user" : "user_name1",
+        "api_id" : 666666,
+        "api_hash" : "a90s8435rcrw65d6c1a479dd7d9731de",
+        "phone":"+34666666666",
+        "device_model": "[STRING]",
+        "system_version":  "[STRING]",
+        "app_version": "[STRING]",
+        "system_lang_code": "[STRING]",
+        "lang_pack": "[STRING]",
+        "lang_code": "[STRING]"
+    },
+    {
+        "user" : "user_name2",
+        "api_id" : 777777,
+        "api_hash" : "a90s8435rcrw65d6c1a479dd7d9731de",
+        "phone":"+34666666667",
+        "device_model": "[STRING]",
+        "system_version":  "[STRING]",
+        "app_version": "[STRING]",
+        "system_lang_code": "[STRING]",
+        "lang_pack": "[STRING]",
+        "lang_code": "[STRING]"
     }
 ]

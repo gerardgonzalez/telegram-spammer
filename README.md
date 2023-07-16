@@ -15,7 +15,6 @@ Introduce the configuration of your users in the clients.py file located inside 
 This file has the following format:
 
 ```json
-{
     "clients": [
         {
             "user" : "user_name1",
@@ -42,7 +41,6 @@ This file has the following format:
             "lang_code": "[STRING]"
         }
     ]
-}
 ```
 
 ## Avoid being banned!
